@@ -12,5 +12,9 @@ Usage
 
 Thanks
 ======
-Thanks to https://github.com/mxsasha for the inspiration and the University of
-Leipzig for the Dutch word list, see: http://wortschatz.uni-leipzig.de/en/download/
+Thanks to `Sasha Romijn <https://github.com/mxsasha>`_ for the inspiration and the University of
+Leipzig for the `Dutch word list <http://wortschatz.uni-leipzig.de/en/download/>`_.
+
+License
+=======
+The word list provided by the University of Leipzig and the python code are available under the `CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_ license.
