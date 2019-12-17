@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dutch-words"
+version = "0.2.2"
+description = ""
+authors = ["Ramon de Jezus <rdejezus@leukeleu.nl>"]
+readme = "README.rst"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^4.6"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
