@@ -1,7 +1,7 @@
 =========================================================
 Dutch word list
 =========================================================
-A simple python package that exports a list of 10,000 Dutch words ranked by usage.
+A simple python package that exports a list of almost 10,000 Dutch words ranked by usage.
 
 Usage
 =====
