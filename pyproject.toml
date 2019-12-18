@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dutch-words"
-version = "0.2.4"
+version = "0.2.5"
 description = ""
 authors = ["Ramon de Jezus <rdejezus@leukeleu.nl>"]
 readme = "README.rst"
